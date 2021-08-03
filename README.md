@@ -2,10 +2,6 @@
   &nbsp;#TidyTuesday Contributions&nbsp;
 </h1>
 
-My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday), a weekly social data project focused on data science with the [`{tidyverse}`](http://www.tidyverse.org/) ecosystem. 
-
-Feedback is welcome via [Twitter](https://twitter.com/BryanMaitland) or [mail](mailto:bmaitland101@gmail.com).
-
 <div align="center">
 
 &nbsp;&nbsp;&nbsp;
@@ -14,3 +10,10 @@ Feedback is welcome via [Twitter](https://twitter.com/BryanMaitland) or [mail](m
 <a href="https://twitter.com/BryanMaitland"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
 </div>
+
+
+My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascience/tidytuesday), a weekly social data project focused on data science with the [`{tidyverse}`](http://www.tidyverse.org/) ecosystem. 
+
+Feedback is welcome via [Twitter](https://twitter.com/BryanMaitland) or [mail](mailto:bmaitland101@gmail.com).
+
+
